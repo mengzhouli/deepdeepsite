@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Skeleton>
+    <Joints>
+        <Joint>
+            <Name>joint_0</Name>
+            <ParentID>0</ParentID>
+            <Offset>
+                <X>-1.999998</X>
+                <Y>-1.999997</Y>
+            </Offset>
+            <Locked>false</Locked>
+            <MinRotation>-340282346638528870000000000000000000000.000000</MinRotation>
+            <MaxRotation>340282346638528870000000000000000000000.000000</MaxRotation>
+        </Joint>
+        <Joint>
+            <Name>arrow_bounce</Name>
+            <ParentID>0</ParentID>
+            <Offset>
+                <X>2.000036</X>
+                <Y>-381.486847</Y>
+            </Offset>
+            <Locked>false</Locked>
+            <MinRotation>-340282346638528870000000000000000000000.000000</MinRotation>
+            <MaxRotation>340282346638528870000000000000000000000.000000</MaxRotation>
+        </Joint>
+    </Joints>
+    <DrawOrder>
+        <Item>0</Item>
+        <Item>1</Item>
+    </DrawOrder>
+    <Animations />
+</Skeleton>

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Skeleton>
+    <Joints>
+        <Joint>
+            <Name>joint_0</Name>
+            <ParentID>0</ParentID>
+            <Offset>
+                <X>-0.737513</X>
+                <Y>-0.590485</Y>
+            </Offset>
+            <Locked>false</Locked>
+            <MinRotation>-340282346638528859811704183484516925440.000000</MinRotation>
+            <MaxRotation>340282346638528859811704183484516925440.000000</MaxRotation>
+        </Joint>
+        <Joint>
+            <Name>jugs</Name>
+            <ParentID>0</ParentID>
+            <Offset>
+                <X>-14.373944</X>
+                <Y>-26.741741</Y>
+            </Offset>
+            <Locked>false</Locked>
+            <MinRotation>-340282346638528859811704183484516925440.000000</MinRotation>
+            <MaxRotation>340282346638528859811704183484516925440.000000</MaxRotation>
+        </Joint>
+        <Joint>
+            <Name>rig</Name>
+            <ParentID>0</ParentID>
+            <Offset>
+                <X>-53.731346</X>
+                <Y>-297.756012</Y>
+            </Offset>
+            <Locked>false</Locked>
+            <MinRotation>-340282346638528859811704183484516925440.000000</MinRotation>
+            <MaxRotation>340282346638528859811704183484516925440.000000</MaxRotation>
+        </Joint>
+    </Joints>
+    <DrawOrder>
+        <Item>0</Item>
+        <Item>2</Item>
+        <Item>1</Item>
+    </DrawOrder>
+    <Animations />
+</Skeleton>

@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<StringTable>
+    <Pair>
+        <Key>level_required_characters</Key>
+        <Value>Required Dwarves</Value>
+    </Pair>
+    <Pair>
+        <Key>level_unlocked_items</Key>
+        <Value>Items</Value>
+    </Pair>
+    <Pair>
+        <Key>level_unlocked_characters</Key>
+        <Value>Portraits</Value>
+    </Pair>
+    <Pair>
+        <Key>level_unlocked_abilities</Key>
+        <Value>Abilities</Value>
+    </Pair>
+    <Pair>
+        <Key>level_unlocked_seperator</Key>
+        <Value>of</Value>
+    </Pair>
+
+    <Pair>
+        <Key>dwarfhome0_name</Key>
+        <Value>Stoutholm Craftman's District</Value>
+    </Pair>
+    <Pair>
+        <Key>dwarfhome0_spawn_checkpoint_name</Key>
+        <Value>Craftman's District</Value>
+    </Pair>
+
+    <Pair>
+        <Key>dwarfhome1_name</Key>
+        <Value>Stoutholm Assembly Hall</Value>
+    </Pair>
+    <Pair>
+        <Key>dwarfhome1_spawn_checkpoint_name</Key>
+        <Value>Public Square</Value>
+    </Pair>
+    <Pair>
+        <Key>dwarfhome1_workshop_checkpoint_name</Key>
+        <Value>Workshop</Value>
+    </Pair>
+    <Pair>
+        <Key>dwarfhome1_assembly_hall_checkpoint_name</Key>
+        <Value>Assembly Hall</Value>
+    </Pair>
+
+    <Pair>
+        <Key>dwarfhome2_name</Key>
+        <Value>The Arms of Stoutholm</Value>
+    </Pair>
+    <Pair>
+        <Key>dwarfhome2_spawn_checkpoint_name</Key>
+        <Value>Tower Approach</Value>
+    </Pair>
+    <Pair>
+        <Key>dwarfhome2_munitions_depot_checkpoint_name</Key>
+        <Value>Munitions Depot</Value>
+    </Pair>
+    <Pair>
+        <Key>dwarfhome2_lab_checkpoint_name</Key>
+        <Value>Lab</Value>
+    </Pair>
+
+    <Pair>
+        <Key>dwarfhome3_name</Key>
+        <Value>Wyrmbore Mines</Value>
+    </Pair>
+    <Pair>
+        <Key>dwarfhome3_spawn_checkpoint_name</Key>
+        <Value>Mine Enterance</Value>
+    </Pair>
+    <Pair>
+        <Key>dwarfhome3_hidden_nook_checkpoint_name</Key>
+        <Value>Hidden Nook</Value>
+    </Pair>
+    <Pair>
+        <Key>dwarfhome3_roundabout_checkpoint_name</Key>
+        <Value>Roundabout</Value>
+    </Pair>
+    <Pair>
+        <Key>dwarfhome3_blocked_passage_checkpoint_name</Key>
+        <Value>Blocked Passage</Value>
+    </Pair>
+    <Pair>
+        <Key>dwarfhome3_burning_tracks_checkpoint_name</Key>
+        <Value>Burning Tracks</Value>
+    </Pair>
+
+    <Pair>
+        <Key>dwarfhome4_name</Key>
+        <Value>The Great Forge</Value>
+    </Pair>
+    <Pair>
+        <Key>dwarfhome4_spawn_checkpoint_name</Key>
+        <Value>Loading Bay</Value>
+    </Pair>
+    <Pair>
+        <Key>dwarfhome4_workshop_checkpoint_name</Key>
+        <Value>Workshop</Value>
+    </Pair>
+    <Pair>
+        <Key>dwarfhome4_assembly_hall_checkpoint_name</Key>
+        <Value>Mushroom Garden</Value>
+    </Pair>
+    <Pair>
+        <Key>dwarfhome4_tower_checkpoint_name</Key>
+        <Value>Lab</Value>
+    </Pair>
+    <Pair>
+        <Key>dwarfhome4_mines_checkpoint_name</Key>
+        <Value>Mines</Value>
+    </Pair>
+    <Pair>
+        <Key>dwarfhome4_bridge_checkpoint_name</Key>
+        <Value>Great Forge</Value>
+    </Pair>
+</StringTable>

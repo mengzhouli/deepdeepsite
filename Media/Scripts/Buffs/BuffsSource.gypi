@@ -1,0 +1,22 @@
+{
+    'sources':
+    [
+        'AttackSpeedBonus.cpp',
+        'AttackSpeedBonus.hpp',
+        'BasicBuff.cpp',
+        'BasicBuff.hpp',
+        'BasicBuff.inl',
+        'BurningDamageOverTime.cpp',
+        'BurningDamageOverTime.hpp',
+        'CritChanceBonus.cpp',
+        'CritChanceBonus.hpp',
+        'DamageOverTime.cpp',
+        'DamageOverTime.hpp',
+        'HealOverTime.cpp',
+        'HealOverTime.hpp',
+        'MaxHealthIncrease.cpp',
+        'MaxHealthIncrease.hpp',
+        'SpeedBoost.cpp',
+        'SpeedBoost.hpp',
+    ],
+}

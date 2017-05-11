@@ -1,0 +1,347 @@
+<?xml version="1.0"?>
+<StringTable>
+    <Include>items.stringtable</Include>
+    <Include>abilities.stringtable</Include>
+    <Include>levels.stringtable</Include>
+    <Include>tutorials.stringtable</Include>
+    <Pair>
+        <Key>action_move_tooltip</Key>
+        <Value>Orders selected units to move to the target area or follow the target unit.  Moving units will not engage enemies.</Value>
+    </Pair>
+    <Pair>
+        <Key>action_attack_tooltip</Key>
+        <Value>Orders selected units to move to the target point, fighting nearby enemies along the way.  Targeting a unit with the Attack command orders that be attacked until it is killed.</Value>
+    </Pair>
+    <Pair>
+        <Key>character_beef_name</Key>
+        <Value>Beef</Value>
+    </Pair>
+    <Pair>
+        <Key>character_chicken_name</Key>
+        <Value>Chicken</Value>
+    </Pair>
+    <Pair>
+        <Key>character_ham_name</Key>
+        <Value>Ham</Value>
+    </Pair>
+    <Pair>
+        <Key>character_chicken_name</Key>
+        <Value>Chicken</Value>
+    </Pair>
+    <Pair>
+        <Key>character_crit_food_name</Key>
+        <Value>Ham Feast</Value>
+    </Pair>
+    <Pair>
+        <Key>character_attack_speed_food_name</Key>
+        <Value>Rib Platter</Value>
+    </Pair>
+    <Pair>
+        <Key>character_wine_keg_name</Key>
+        <Value>Wine Rack</Value>
+    </Pair>
+    <Pair>
+        <Key>character_dynamite_name</Key>
+        <Value>Powder Keg</Value>
+    </Pair>
+    <Pair>
+        <Key>character_gold_node_name</Key>
+        <Value>Gold</Value>
+    </Pair>
+    <Pair>
+        <Key>character_destructable_rocks_name</Key>
+        <Value>Loose Rocks</Value>
+    </Pair>
+    <Pair>
+        <Key>character_destructable_wall_name</Key>
+        <Value>Weakened Wall</Value>
+    </Pair>
+    <Pair>
+        <Key>action_hold_tooltip</Key>
+        <Value>Orders selected units to stay where they are and attack enemies that are within range.  Units will neither chase down enemies nor move to engage.</Value>
+    </Pair>
+    <Pair>
+        <Key>action_attack_name</Key>
+        <Value>Attack</Value>
+    </Pair>
+    <Pair>
+        <Key>action_stop_name</Key>
+        <Value>Stop</Value>
+    </Pair>
+    <Pair>
+        <Key>action_move_name</Key>
+        <Value>Move</Value>
+    </Pair>
+    <Pair>
+        <Key>action_hold_name</Key>
+        <Value>Hold Position</Value>
+    </Pair>
+    <Pair>
+        <Key>action_stop_tooltip</Key>
+        <Value>Orders selected units to cancel all orders and stop moving.</Value>
+    </Pair>
+
+    <Pair>
+        <Key>go_button_tooltip</Key>
+        <Value>Begin level</Value>
+    </Pair>
+    <Pair>
+        <Key>loadout_accept_tooltip</Key>
+        <Value>Accept</Value>
+    </Pair>
+    <Pair>
+        <Key>loadout_cancel_tooltip</Key>
+        <Value>Dismiss</Value>
+    </Pair>
+
+    <Pair>
+        <Key>resource_display_tooltip</Key>
+        <Value>Resources</Value>
+    </Pair>
+
+    <Pair>
+        <Key>pause_tooltip</Key>
+        <Value>Pause</Value>
+    </Pair>
+
+    <Pair>
+        <Key>pause_return_to_loadout_tooltip</Key>
+        <Value>Loadout</Value>
+    </Pair>
+    <Pair>
+        <Key>pause_return_to_checkpoint_tooltip</Key>
+        <Value>Checkpoint %u</Value>
+    </Pair>
+    <Pair>
+        <Key>pause_pause_forward_button_tooltip</Key>
+        <Value>Resume game</Value>
+    </Pair>
+    <Pair>
+        <Key>pause_pause_back_button_tooltip</Key>
+        <Value>Exit to campaign menu</Value>
+    </Pair>
+    <Pair>
+        <Key>pause_victory_forward_button_tooltip</Key>
+        <Value>Continue to campaign menu</Value>
+    </Pair>
+    <Pair>
+        <Key>pause_defeat_back_button_tooltip</Key>
+        <Value>Exit to campaign menu</Value>
+    </Pair>
+
+    <Pair>
+        <Key>select_all_button_tooltip</Key>
+        <Value>Select All</Value>
+    </Pair>
+
+    <Pair>
+        <Key>brewer_type_name</Key>
+        <Value>Brewer</Value>
+    </Pair>
+    <Pair>
+        <Key>builder_type_name</Key>
+        <Value>Builder</Value>
+    </Pair>
+    <Pair>
+        <Key>cook_type_name</Key>
+        <Value>Cook</Value>
+    </Pair>
+    <Pair>
+        <Key>fighter_type_name</Key>
+        <Value>Brawler</Value>
+    </Pair>
+    <Pair>
+        <Key>miner_type_name</Key>
+        <Value>Miner</Value>
+    </Pair>
+    <Pair>
+        <Key>navigator_type_name</Key>
+        <Value>Navigator</Value>
+    </Pair>
+    <Pair>
+        <Key>generic_type_name</Key>
+        <Value>Generic</Value>
+    </Pair>
+
+    <Pair>
+        <Key>character_torch_name</Key>
+        <Value>Torch</Value>
+    </Pair>
+    <Pair>
+        <Key>character_bridge_name</Key>
+        <Value>Broken Bridge</Value>
+    </Pair>
+    <Pair>
+        <Key>character_brazier_name</Key>
+        <Value>Brazier</Value>
+    </Pair>
+    <Pair>
+        <Key>character_candle_name</Key>
+        <Value>Candle</Value>
+    </Pair>
+    <Pair>
+        <Key>character_campfire_name</Key>
+        <Value>Campfire</Value>
+    </Pair>
+    <Pair>
+        <Key>character_cookfire_name</Key>
+        <Value>Cookfire</Value>
+    </Pair>
+    <Pair>
+        <Key>character_lever_name</Key>
+        <Value>Lever</Value>
+    </Pair>
+    <Pair>
+        <Key>character_door_name</Key>
+        <Value>Door</Value>
+    </Pair>
+    <Pair>
+        <Key>character_checkpoint_name</Key>
+        <Value>Checkpoint: %s</Value>
+    </Pair>
+    <Pair>
+        <Key>character_lockbox_name</Key>
+        <Value>Lockbox</Value>
+    </Pair>
+    <Pair>
+        <Key>character_wood_chest_name</Key>
+        <Value>Wooden Chest</Value>
+    </Pair>
+
+    <Pair>
+        <Key>damage_type_title</Key>
+        <Value>Damage Type:</Value>
+    </Pair>
+    <Pair>
+        <Key>damage_type_melee</Key>
+        <Value>Melee</Value>
+    </Pair>
+    <Pair>
+        <Key>damage_type_projectile</Key>
+        <Value>Projectile</Value>
+    </Pair>
+    <Pair>
+        <Key>damage_type_explosion</Key>
+        <Value>Explosion</Value>
+    </Pair>
+    <Pair>
+        <Key>damage_type_physical</Key>
+        <Value>Physical</Value>
+    </Pair>
+    <Pair>
+        <Key>damage_type_fire</Key>
+        <Value>Fire</Value>
+    </Pair>
+    <Pair>
+        <Key>damage_type_poison</Key>
+        <Value>Poison</Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_type_weapon</Key>
+        <Value>Weapon</Value>
+    </Pair>
+    <Pair>
+        <Key>item_type_armor</Key>
+        <Value>Armor</Value>
+    </Pair>
+    <Pair>
+        <Key>item_type_trinket</Key>
+        <Value>Trinket</Value>
+    </Pair>
+
+    <Pair>
+        <Key>weapon_type_melee_hands</Key>
+        <Value>Fist weapon</Value>
+    </Pair>
+    <Pair>
+        <Key>weapon_type_melee_1h</Key>
+        <Value>1-Hand melee weapon</Value>
+    </Pair>
+    <Pair>
+        <Key>weapon_type_melee_2h</Key>
+        <Value>2-Hand melee weapon</Value>
+    </Pair>
+    <Pair>
+        <Key>weapon_type_melee_shield</Key>
+        <Value>Shield</Value>
+    </Pair>
+    <Pair>
+        <Key>weapon_type_bow</Key>
+        <Value>Bow</Value>
+    </Pair>
+    <Pair>
+        <Key>weapon_type_gun_1h</Key>
+        <Value>1-Hand gun</Value>
+    </Pair>
+    <Pair>
+        <Key>weapon_type_gun_2h</Key>
+        <Value>2-Hand gun</Value>
+    </Pair>
+    <Pair>
+        <Key>weapon_type_thrown</Key>
+        <Value>Thrown weapon</Value>
+    </Pair>
+    <Pair>
+        <Key>weapon_type_special</Key>
+        <Value>Special item</Value>
+    </Pair>
+
+    <Pair>
+        <Key>weapon_damage_title</Key>
+        <Value>Damage:</Value>
+    </Pair>
+    <Pair>
+        <Key>weapon_damage_units</Key>
+        <Value>DPS</Value>
+    </Pair>
+
+    <Pair>
+        <Key>weapon_crit_chance_title</Key>
+        <Value>Critical hit chance:</Value>
+    </Pair>
+    <Pair>
+        <Key>weapon_crit_damage_title</Key>
+        <Value>Critical hit damage:</Value>
+    </Pair>
+
+    <Pair>
+        <Key>weapon_range_title</Key>
+        <Value>Range:</Value>
+    </Pair>
+    <Pair>
+        <Key>weapon_range_melee</Key>
+        <Value>Melee</Value>
+    </Pair>
+
+    <Pair>
+        <Key>weapon_block_title</Key>
+        <Value>Block:</Value>
+    </Pair>
+    <Pair>
+        <Key>weapon_block_description</Key>
+        <Value>chance to block</Value>
+    </Pair>
+    <Pair>
+        <Key>weapon_block_damage_suffix</Key>
+        <Value>damage</Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_mining_rate_title</Key>
+        <Value>Mining Rate:</Value>
+    </Pair>
+    <Pair>
+        <Key>item_mining_rate_suffix</Key>
+        <Value>gold per second</Value>
+    </Pair>
+    <Pair>
+        <Key>item_mining_rate_modifier_title</Key>
+        <Value>Mining Rate:</Value>
+    </Pair>
+
+    <Pair>
+        <Key>armor_armor_title</Key>
+        <Value>Armor:</Value>
+    </Pair>
+</StringTable>

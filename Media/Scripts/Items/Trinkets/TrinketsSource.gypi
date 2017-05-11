@@ -1,0 +1,18 @@
+{
+    'sources':
+    [
+        'BasicTrinket.cpp',
+        'BasicTrinket.hpp',
+        'Cookbook.cpp',
+        'Cookbook.hpp',
+        'Headlamp.cpp',
+        'Headlamp.hpp',
+        'HealthReapTrinket.hpp',
+        'Pipe.cpp',
+        'Pipe.hpp',
+        'ThornsTrinket.hpp',
+    ],
+    'includes':
+    [
+    ],
+}

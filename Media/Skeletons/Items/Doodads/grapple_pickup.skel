@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Skeleton>
+    <Joints>
+        <Joint>
+            <Name>box_front</Name>
+            <ParentID>0</ParentID>
+            <Offset>
+                <X>97.407608</X>
+                <Y>-2.104458</Y>
+            </Offset>
+            <Locked>false</Locked>
+            <MinRotation>-340282346638528859811704183484516925440.000000</MinRotation>
+            <MaxRotation>340282346638528859811704183484516925440.000000</MaxRotation>
+        </Joint>
+        <Joint>
+            <Name>rope</Name>
+            <ParentID>0</ParentID>
+            <Offset>
+                <X>23.621527</X>
+                <Y>-4.887204</Y>
+            </Offset>
+            <Locked>false</Locked>
+            <MinRotation>-340282346638528859811704183484516925440.000000</MinRotation>
+            <MaxRotation>340282346638528859811704183484516925440.000000</MaxRotation>
+        </Joint>
+        <Joint>
+            <Name>box_back</Name>
+            <ParentID>0</ParentID>
+            <Offset>
+                <X>-5.909783</X>
+                <Y>-105.638023</Y>
+            </Offset>
+            <Locked>false</Locked>
+            <MinRotation>-340282346638528859811704183484516925440.000000</MinRotation>
+            <MaxRotation>340282346638528859811704183484516925440.000000</MaxRotation>
+        </Joint>
+    </Joints>
+    <DrawOrder>
+        <Item>2</Item>
+        <Item>1</Item>
+        <Item>0</Item>
+    </DrawOrder>
+    <Animations />
+</Skeleton>

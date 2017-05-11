@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<MaterialSet>
+    <Mapping>
+        <Name>stand</Name>
+        <Material>
+            <Path>brazier.png</Path>
+            <TexCoords>
+                <Point>
+                    <X>0.058180</X>
+                    <Y>0.512022</Y>
+                </Point>
+                <Point>
+                    <X>0.161273</X>
+                    <Y>0.508156</Y>
+                </Point>
+                <Point>
+                    <X>0.232915</X>
+                    <Y>0.967922</Y>
+                </Point>
+                <Point>
+                    <X>0.000000</X>
+                    <Y>0.966527</Y>
+                </Point>
+            </TexCoords>
+            <Origin>
+                <X>0.111644</X>
+                <Y>0.956926</Y>
+            </Origin>
+            <Rotation>0.000000</Rotation>
+            <Scale>713.309509</Scale>
+        </Material>
+    </Mapping>
+</MaterialSet>

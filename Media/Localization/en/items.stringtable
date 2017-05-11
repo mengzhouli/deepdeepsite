@@ -1,0 +1,711 @@
+<?xml version="1.0"?>
+<StringTable>
+    <Pair>
+        <Key>item_sword_name</Key>
+        <Value>Basic Sword</Value>
+    </Pair>
+    <Pair>
+        <Key>item_sword_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_sword_flavor</Key>
+        <Value>A basic sword for an army dwarf.  Lots of these laying around.</Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_chainmail_armor_name</Key>
+        <Value>Chainmail</Value>
+    </Pair>
+    <Pair>
+        <Key>item_chainmail_armor_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_chainmail_armor_flavor</Key>
+        <Value></Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_bristlenoggin_armor_name</Key>
+        <Value>Bristlenoggin Armor</Value>
+    </Pair>
+    <Pair>
+        <Key>item_bristlenoggin_armor_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_bristlenoggin_armor_flavor</Key>
+        <Value></Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_bronze_armor_name</Key>
+        <Value>Bronze Armor</Value>
+    </Pair>
+    <Pair>
+        <Key>item_bronze_armor_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_bronze_armor_flavor</Key>
+        <Value></Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_twinfang_armor_name</Key>
+        <Value>Twin Fang Armor</Value>
+    </Pair>
+    <Pair>
+        <Key>item_twinfang_armor_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_twinfang_armor_flavor</Key>
+        <Value></Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_blade_armor_name</Key>
+        <Value>Blade Armor</Value>
+    </Pair>
+    <Pair>
+        <Key>item_blade_armor_description</Key>
+        <Value>IT HAS BLADES ON IT.</Value>
+    </Pair>
+    <Pair>
+        <Key>item_blade_armor_flavor</Key>
+        <Value>REAL BLADES.</Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_teapot_armor_name</Key>
+        <Value>Teapot Armor</Value>
+    </Pair>
+    <Pair>
+        <Key>item_teapot_armor_description</Key>
+        <Value>EARL GREY.</Value>
+    </Pair>
+    <Pair>
+        <Key>item_teapot_armor_flavor</Key>
+        <Value>TOO HOT.</Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_wok_armor_name</Key>
+        <Value>Wok Armor</Value>
+    </Pair>
+    <Pair>
+        <Key>item_wok_armor_description</Key>
+        <Value>WE'RE COOKIN NOW.</Value>
+    </Pair>
+    <Pair>
+        <Key>item_wok_armor_flavor</Key>
+        <Value>SO ASIAN.</Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_apron_armor_name</Key>
+        <Value>Apron</Value>
+    </Pair>
+    <Pair>
+        <Key>item_apron_armor_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_apron_armor_flavor</Key>
+        <Value></Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_brew_tunic_armor_name</Key>
+        <Value>Tunic</Value>
+    </Pair>
+    <Pair>
+        <Key>item_brew_tunic_armor_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_brew_tunic_armor_flavor</Key>
+        <Value></Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_miner_tunic_armor_name</Key>
+        <Value>Tunic</Value>
+    </Pair>
+    <Pair>
+        <Key>item_miner_tunic_armor_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_miner_tunic_armor_flavor</Key>
+        <Value></Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_builder_tunic_armor_name</Key>
+        <Value>Tunic</Value>
+    </Pair>
+    <Pair>
+        <Key>item_builder_tunic_armor_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_builder_tunic_armor_flavor</Key>
+        <Value></Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_nav_tunic_armor_name</Key>
+        <Value>Tunic</Value>
+    </Pair>
+    <Pair>
+        <Key>item_nav_tunic_armor_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_nav_tunic_armor_flavor</Key>
+        <Value></Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_health_reap_trinket_name</Key>
+        <Value>Health Reap Talisman</Value>
+    </Pair>
+    <Pair>
+        <Key>item_health_reap_trinket_description</Key>
+        <Value>Reap %g%% of all physical damage dealt.</Value>
+    </Pair>
+    <Pair>
+        <Key>item_health_reap_trinket_flavor</Key>
+        <Value></Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_thorns_trinket_name</Key>
+        <Value>Thorns Talisman</Value>
+    </Pair>
+    <Pair>
+        <Key>item_thorns_trinket_description</Key>
+        <Value>Return %g%% of all physical damage recieved.</Value>
+    </Pair>
+    <Pair>
+        <Key>item_thorns_trinket_flavor</Key>
+        <Value></Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_cutlery_name</Key>
+        <Value>Cutlery</Value>
+    </Pair>
+    <Pair>
+        <Key>item_cutlery_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_cutlery_flavor</Key>
+        <Value>You could poke an eye out with that thing!</Value>
+    </Pair>
+    <Pair>
+        <Key>item_servingtools_name</Key>
+        <Value>Serving Tools</Value>
+    </Pair>
+    <Pair>
+        <Key>item_servingtools_description</Key>
+        <Value>Increases passive health regeneration by %g per second.</Value>
+    </Pair>
+    <Pair>
+        <Key>item_servingtools_flavor</Key>
+        <Value>Host a party!</Value>
+    </Pair>
+    <Pair>
+        <Key>item_preptools_name</Key>
+        <Value>Prep Tools</Value>
+    </Pair>
+    <Pair>
+        <Key>item_preptools_description</Key>
+        <Value>Heal for %g%% of damage dealt.</Value>
+    </Pair>
+    <Pair>
+        <Key>item_preptools_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_butchertools_name</Key>
+        <Value>Butcher Tools</Value>
+    </Pair>
+    <Pair>
+        <Key>item_butchertools_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_butchertools_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_cookwaretools_name</Key>
+        <Value>Cookware</Value>
+    </Pair>
+    <Pair>
+        <Key>item_cookwaretools_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_cookwaretools_flavor</Key>
+        <Value></Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_basic_pistol_name</Key>
+        <Value>Basic Pistol</Value>
+    </Pair>
+    <Pair>
+        <Key>item_basic_pistol_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_basic_pistol_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_finger_cannon_pistol_name</Key>
+        <Value>Finger Cannon</Value>
+    </Pair>
+    <Pair>
+        <Key>item_finger_cannon_pistol_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_finger_cannon_pistol_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_blunderbuss_pistol_name</Key>
+        <Value>Blunderbuss Pistol</Value>
+    </Pair>
+    <Pair>
+        <Key>item_blunderbuss_pistol_description</Key>
+        <Value>Damage is reduced by up to %g%% when further from the target.</Value>
+    </Pair>
+    <Pair>
+        <Key>item_blunderbuss_pistol_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_black_princess_pistol_name</Key>
+        <Value>The Black Princess</Value>
+    </Pair>
+    <Pair>
+        <Key>item_black_princess_pistol_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_black_princess_pistol_flavor</Key>
+        <Value></Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_rifle_name</Key>
+        <Value>Basic Rifle</Value>
+    </Pair>
+    <Pair>
+        <Key>item_rifle_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_rifle_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_hand_cannon_rifle_name</Key>
+        <Value>Hand Cannon</Value>
+    </Pair>
+    <Pair>
+        <Key>item_hand_cannon_rifle_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_hand_cannon_rifle_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_blunderbuss_rifle_name</Key>
+        <Value>Blunderbuss</Value>
+    </Pair>
+    <Pair>
+        <Key>item_blunderbuss_rifle_description</Key>
+        <Value>Damage is reduced by up to %g%% when further from the target.</Value>
+    </Pair>
+    <Pair>
+        <Key>item_blunderbuss_rifle_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_black_queen_rifle_name</Key>
+        <Value>The Black Queen</Value>
+    </Pair>
+    <Pair>
+        <Key>item_black_queen_rifle_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_black_queen_rifle_flavor</Key>
+        <Value></Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_woodenshortsword_name</Key>
+        <Value>Wooden Shortsword</Value>
+    </Pair>
+    <Pair>
+        <Key>item_woodenshortsword_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_woodenshortsword_flavor</Key>
+        <Value>For training purposes only!</Value>
+    </Pair>
+    <Pair>
+        <Key>item_rustyironshortsword_name</Key>
+        <Value>Rusty Iron Shortsword</Value>
+    </Pair>
+    <Pair>
+        <Key>item_rustyironshortsword_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_rustyironshortsword_flavor</Key>
+        <Value>Its seen better days.</Value>
+    </Pair>
+    <Pair>
+        <Key>item_ironshortsword_name</Key>
+        <Value>Iron Shortsword</Value>
+    </Pair>
+    <Pair>
+        <Key>item_ironshortsword_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_ironshortsword_flavor</Key>
+        <Value>Polished... but still short.</Value>
+    </Pair>
+    <Pair>
+        <Key>item_ignitionpinsword_name</Key>
+        <Value>Ignition Pin</Value>
+    </Pair>
+    <Pair>
+        <Key>item_ignitionpinsword_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_ignitionpinsword_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_lettersbanesword_name</Key>
+        <Value>Letter's Bane</Value>
+    </Pair>
+    <Pair>
+        <Key>item_lettersbanesword_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_lettersbanesword_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_uncalculateddivisionsword_name</Key>
+        <Value>Uncalculated Division</Value>
+    </Pair>
+    <Pair>
+        <Key>item_uncalculateddivisionsword_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_uncalculateddivisionsword_flavor</Key>
+        <Value></Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_woodenbasicshield_name</Key>
+        <Value>Wooden Plank Shield</Value>
+    </Pair>
+    <Pair>
+        <Key>item_woodenbasicshield_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_woodenbasicshield_flavor</Key>
+        <Value>At least it holds together?</Value>
+    </Pair>
+    <Pair>
+        <Key>item_woodenheater_name</Key>
+        <Value>Wooden Heater Shield</Value>
+    </Pair>
+    <Pair>
+        <Key>item_woodenheater_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_woodenheater_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_bracedwoodenheater_name</Key>
+        <Value>Braced Wooden Heater Shield</Value>
+    </Pair>
+    <Pair>
+        <Key>item_bracedwoodenheater_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_bracedwoodenheater_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_ironheater_name</Key>
+        <Value>Iron Heater Shield</Value>
+    </Pair>
+    <Pair>
+        <Key>item_ironheater_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_ironheater_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_woodenroundshield_name</Key>
+        <Value>Wooden Round Shield</Value>
+    </Pair>
+    <Pair>
+        <Key>item_woodenroundshield_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_woodenroundshield_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_towershield_name</Key>
+        <Value>Tower Shield</Value>
+    </Pair>
+    <Pair>
+        <Key>item_towershield_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_towershield_flavor</Key>
+        <Value></Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_woodpickaxe_name</Key>
+        <Value>Wooden Pickaxe</Value>
+    </Pair>
+    <Pair>
+        <Key>item_woodpickaxe_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_woodpickaxe_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_ironpickaxe_name</Key>
+        <Value>Iron Pickaxe</Value>
+    </Pair>
+    <Pair>
+        <Key>item_ironpickaxe_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_ironpickaxe_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_goldpickaxe_name</Key>
+        <Value>Golden Pickaxe</Value>
+    </Pair>
+    <Pair>
+        <Key>item_goldpickaxe_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_goldpickaxe_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_diamondpickaxe_name</Key>
+        <Value>Diamond Pickaxe</Value>
+    </Pair>
+    <Pair>
+        <Key>item_diamondpickaxe_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_diamondpickaxe_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_sack_name</Key>
+        <Value>Basic Ore Sack</Value>
+    </Pair>
+    <Pair>
+        <Key>item_sack_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_sack_flavor</Key>
+        <Value></Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_woodhammer_name</Key>
+        <Value>Wooden Hammer</Value>
+    </Pair>
+    <Pair>
+        <Key>item_woodhammer_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_woodhammer_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_ironhammer_name</Key>
+        <Value>Iron Hammer</Value>
+    </Pair>
+    <Pair>
+        <Key>item_ironhammer_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_ironhammer_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_goldhammer_name</Key>
+        <Value>Golden Hammer</Value>
+    </Pair>
+    <Pair>
+        <Key>item_goldhammer_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_goldhammer_flavor</Key>
+        <Value></Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_briar_pipe_name</Key>
+        <Value>Briar Pipe</Value>
+    </Pair>
+    <Pair>
+        <Key>item_briar_pipe_description</Key>
+        <Value>Attacks on enemies below %g%% health are guarenteed critical hits.</Value>
+    </Pair>
+    <Pair>
+        <Key>item_briar_pipe_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_meerschaum_pipe_name</Key>
+        <Value>Meerschaum Pipe</Value>
+    </Pair>
+    <Pair>
+        <Key>item_meerschaum_pipe_description</Key>
+        <Value>Attacks on unaware enemies are guarenteed critical hits.</Value>
+    </Pair>
+    <Pair>
+        <Key>item_meerschaum_pipe_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_stein_pipe_name</Key>
+        <Value>Stein Pipe</Value>
+    </Pair>
+    <Pair>
+        <Key>item_stein_pipe_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_stein_pipe_flavor</Key>
+        <Value></Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_de_vermis_coctione_cookbook_name</Key>
+        <Value>De Vermis Coctione</Value>
+    </Pair>
+    <Pair>
+        <Key>item_de_vermis_coctione_cookbook_description</Key>
+        <Value>All You Can Eat also heals over time.</Value>
+    </Pair>
+    <Pair>
+        <Key>item_de_vermis_coctione_cookbook_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_the_chef_in_yellow_cookbook_name</Key>
+        <Value>The Chef in Yellow</Value>
+    </Pair>
+    <Pair>
+        <Key>item_the_chef_in_yellow_cookbook_description</Key>
+        <Value>All You Can Eat heals %u additional target.</Value>
+    </Pair>
+    <Pair>
+        <Key>item_the_chef_in_yellow_cookbook_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_culinomicon_cookbook_name</Key>
+        <Value>The Culinomicon</Value>
+    </Pair>
+    <Pair>
+        <Key>item_culinomicon_cookbook_description</Key>
+        <Value>All You Can Eat targets enemies and does poison damage.</Value>
+    </Pair>
+    <Pair>
+        <Key>item_culinomicon_cookbook_flavor</Key>
+        <Value></Value>
+    </Pair>
+
+    <Pair>
+        <Key>item_basic_headlamp_name</Key>
+        <Value>Basic Headlamp</Value>
+    </Pair>
+    <Pair>
+        <Key>item_basic_headlamp_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_basic_headlamp_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_flashlight_name</Key>
+        <Value>Flashlight</Value>
+    </Pair>
+    <Pair>
+        <Key>item_flashlight_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_flashlight_flavor</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_lantern_name</Key>
+        <Value>Lantern</Value>
+    </Pair>
+    <Pair>
+        <Key>item_lantern_description</Key>
+        <Value></Value>
+    </Pair>
+    <Pair>
+        <Key>item_lantern_flavor</Key>
+        <Value></Value>
+    </Pair>
+</StringTable>

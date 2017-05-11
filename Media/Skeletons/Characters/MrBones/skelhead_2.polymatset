@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<MaterialSet>
+    <Mapping>
+        <Name>sight_line</Name>
+        <Material>
+            <Path>skelheads.png</Path>
+            <TexCoords>
+                <Point>
+                    <X>0.585812</X>
+                    <Y>0.201373</Y>
+                </Point>
+                <Point>
+                    <X>0.503433</X>
+                    <Y>0.220824</Y>
+                </Point>
+                <Point>
+                    <X>0.445080</X>
+                    <Y>0.205950</Y>
+                </Point>
+                <Point>
+                    <X>0.435927</X>
+                    <Y>0.052632</Y>
+                </Point>
+                <Point>
+                    <X>0.575515</X>
+                    <Y>0.048055</Y>
+                </Point>
+            </TexCoords>
+            <Origin>
+                <X>0.401764</X>
+                <Y>0.150393</Y>
+            </Origin>
+            <Rotation>0.053212</Rotation>
+            <Scale>889.443604</Scale>
+        </Material>
+    </Mapping>
+</MaterialSet>

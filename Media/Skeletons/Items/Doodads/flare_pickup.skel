@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Skeleton>
+    <Joints>
+        <Joint>
+            <Name>flares</Name>
+            <ParentID>0</ParentID>
+            <Offset>
+                <X>-2.000015</X>
+                <Y>-1.999977</Y>
+            </Offset>
+            <Locked>false</Locked>
+            <MinRotation>-340282346638528859811704183484516925440.000000</MinRotation>
+            <MaxRotation>340282346638528859811704183484516925440.000000</MaxRotation>
+        </Joint>
+        <Joint>
+            <Name>skeleton</Name>
+            <ParentID>0</ParentID>
+            <Offset>
+                <X>-39.999985</X>
+                <Y>5.999981</Y>
+            </Offset>
+            <Locked>false</Locked>
+            <MinRotation>-340282346638528859811704183484516925440.000000</MinRotation>
+            <MaxRotation>340282346638528859811704183484516925440.000000</MaxRotation>
+        </Joint>
+    </Joints>
+    <DrawOrder>
+        <Item>1</Item>
+        <Item>0</Item>
+    </DrawOrder>
+    <Animations />
+</Skeleton>

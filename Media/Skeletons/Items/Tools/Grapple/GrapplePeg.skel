@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Skeleton>
+	<Joints>
+		<Joint>
+			<Name>origin</Name>
+			<ParentID>0</ParentID>
+			<Offset>
+				<X>0</X>
+				<Y>-0.999998391</Y>
+			</Offset>
+			<Locked>false</Locked>
+			<MinRotation>-3.40282347e+038</MinRotation>
+			<MaxRotation>3.40282347e+038</MaxRotation>
+		</Joint>
+		<Joint>
+			<Name>rope_attach</Name>
+			<ParentID>0</ParentID>
+			<Offset>
+				<X>4.52217293</X>
+				<Y>-41.5388565</Y>
+			</Offset>
+			<Locked>false</Locked>
+			<MinRotation>-3.40282347e+038</MinRotation>
+			<MaxRotation>3.40282347e+038</MaxRotation>
+		</Joint>
+	</Joints>
+	<DrawOrder>
+		<Item>0</Item>
+		<Item>1</Item>
+	</DrawOrder>
+	<Animations />
+</Skeleton>

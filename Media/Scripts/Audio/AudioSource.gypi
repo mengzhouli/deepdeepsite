@@ -1,0 +1,10 @@
+{
+    'sources':
+    [
+        'LavaSound.cpp',
+        'LavaSound.hpp',
+    ],
+    'includes':
+    [
+    ],
+}

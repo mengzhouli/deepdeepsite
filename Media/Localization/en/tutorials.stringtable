@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<StringTable>
+    <Pair>
+        <Key>tutorial_loadout_click_portrait</Key>
+        <Value>Click the dwarf portraits to add them to your party.</Value>
+    </Pair>
+    <Pair>
+        <Key>tutorial_move_characters</Key>
+        <Value>Command selected dwarves using the right mouse button.</Value>
+    </Pair>
+    <Pair>
+        <Key>tutorial_use_abilities</Key>
+        <Value>Dwarves learn various special abilties. Use them to explore and fight.</Value>
+    </Pair>
+    <Pair>
+        <Key>tutorial_character_selection</Key>
+        <Value>Command multiple dwarves individually or as a group. Use the left mouse button to select individuals or drag to select a group.
+
+Dwarves can also be selected with hotkeys or by clicking their icons at the bottom of the screen.</Value>
+    </Pair>
+    <Pair>
+        <Key>tutorial_primary_selection</Key>
+        <Value>The primary selected dwarf uses abilities.  When multiple dwarves are selected, press the tab key to change the primary selection.</Value>
+    </Pair>
+</StringTable>

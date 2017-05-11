@@ -1,0 +1,19 @@
+{
+    'sources':
+    [
+        'BasketRope.cpp',
+        'BasketRope.hpp',
+        'BridgeDrawable.cpp',
+        'BridgeDrawable.hpp',
+        'OverheadTextDisplay.hpp',
+        'EmoteDisplay.hpp',
+        'Flame.cpp',
+        'Flame.hpp',
+        'GrappleRopeDrawable.cpp',
+        'GrappleRopeDrawable.hpp',
+        'RopeDrawable.cpp',
+        'RopeDrawable.hpp',
+        'RopeUtility.cpp',
+        'RopeUtility.hpp',
+    ],
+}

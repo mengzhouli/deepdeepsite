@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<MaterialSet>
+    <Mapping>
+        <Name>origin</Name>
+        <Material>
+            <Path>bow_arrow.png</Path>
+            <TexCoords>
+                <Point>
+                    <X>0.649203</X>
+                    <Y>0.168565</Y>
+                </Point>
+                <Point>
+                    <X>0.719818</X>
+                    <Y>0.159453</Y>
+                </Point>
+                <Point>
+                    <X>0.749431</X>
+                    <Y>0.783599</Y>
+                </Point>
+                <Point>
+                    <X>0.630979</X>
+                    <Y>0.785877</Y>
+                </Point>
+            </TexCoords>
+            <Origin>
+                <X>0.688543</X>
+                <Y>0.308165</Y>
+            </Origin>
+            <Rotation>0.007904</Rotation>
+            <Scale>207.246109</Scale>
+        </Material>
+    </Mapping>
+</MaterialSet>

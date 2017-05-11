@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<MaterialSet>
+    <Mapping>
+        <Name>a</Name>
+        <Material>
+            <Path>shitty_clambersticks1.png</Path>
+            <TexCoords>
+                <Point>
+                    <X>0.000000</X>
+                    <Y>0.000000</Y>
+                </Point>
+                <Point>
+                    <X>1.000000</X>
+                    <Y>0.000000</Y>
+                </Point>
+                <Point>
+                    <X>1.000000</X>
+                    <Y>1.000000</Y>
+                </Point>
+                <Point>
+                    <X>0.000000</X>
+                    <Y>1.000000</Y>
+                </Point>
+            </TexCoords>
+            <Origin>
+                <X>0.50</X>
+                <Y>1.0</Y>
+            </Origin>
+            <Rotation>1.57079632679</Rotation>
+            <Scale>256.0</Scale>
+        </Material>
+    </Mapping>
+</MaterialSet>

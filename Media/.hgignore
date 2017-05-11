@@ -1,0 +1,12 @@
+syntax: glob
+*/AS_DEBUG/*
+*.props
+*.sln
+*.targets
+*.vcxproj
+*.vcxproj.filters
+Media.xml
+*.xcodeproj*
+.DS_Store
+*Thumbs.db
+*.vcxproj.user

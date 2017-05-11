@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+    <title>The Deep Deep</title>
+    <release-date>2017</release-date>
+    <website>http://www.thedeepdeep.com/</website>
+    <press-can-request-copy>TRUE</press-can-request-copy>
+
+    <platforms>
+        <platform>
+            <name>PC / Mac</name>
+            <link>http://www.thedeepdeep.com/</link>
+        </platform>
+        <platform>
+            <name>Steam (to come)</name>
+            <link>http://www.steampowered.com/</link>
+        </platform>
+    </platforms>
+
+    <prices>
+        <price>
+            <currency>USD</currency>
+            <value>$9.99</value>
+        </price>
+    </prices>
+
+    <description>
+        The Deep Deep is a game about exploration, puzzle solving and battle in a dark 2D world.  Command a small squad of dwarves as they delve deeper and deeper into the shattered remains of their civilization looking for companions and treasure.
+    </description>
+
+    <history>
+        The Deep Deep is developed by Geoff Lang, Vince Price and Andrew Patten as a weekend-only passion project.  Geoff and Vince wanted to create an experience that involved exploring a detailed 2D world which the player has to illuminate themself.  Over 5 years it has grown from simple concepts to a full-fledged game.
+    </history>
+
+    <features>
+        <feature>Explore and battle hordes of monsters in a detailed 2D world by commanding a small squad of dwarves.</feature>
+        <feature>Create a squad from up to 6 dwarf classes, each with unique skills.</feature>
+        <feature>Find secrets and loot to augment dwarves and their abilities.</feature>
+        <feature>Unique painted art style.</feature>
+        <feature>Original dynamic sound track.</feature>
+    </features>
+
+    <trailers>
+        <trailer>
+            <name>Gameplay Video</name>
+            <youtube>GqZdAqY1LT4</youtube>
+        </trailer>
+    </trailers>
+
+    <awards>
+    </awards>
+
+    <quotes>
+    </quotes>
+
+    <additionals>
+        <additional>
+            <title>Original Soundtrack</title>
+            <description>Available at &lt;a href=https://www.thedeepdeep.bandcamp.com&gt;thedeepdeep.bandcamp.com&lt;/a&gt;</description>
+            <link>https://www.thedeepdeep.bandcamp.com</link>
+        </additional>
+        <additional>
+            <title>Development Blog</title>
+            <description>Blog about the development of The Deep Deep</description>
+            <link>http://www.thedeepdeep.com/blog</link>
+        </additional>
+    </additionals>
+    <credits>
+        <credit>
+                <person>Geoff Lang</person>
+                <website>www.vonture.net</website>
+                <role>Programmer</role>
+        </credit>
+        <credit>
+                <person>Vince Price</person>
+                <website>www.vinceprice.tumblr.com</website>
+                <role>Artist</role>
+        </credit>
+        <credit>
+                <person>Andrew Patten</person>
+                <role>Music, Sound Effects</role>
+        </credit>
+    </credits>
+</game>

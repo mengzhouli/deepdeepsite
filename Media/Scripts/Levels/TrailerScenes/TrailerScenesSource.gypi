@@ -1,0 +1,15 @@
+{
+    'sources':
+    [
+        'DwarfHome1TrailerScenes.cpp',
+        'DwarfHome2TrailerScenes.cpp',
+        'DwarfHome3TrailerScenes.cpp',
+        'DwarfHome4TrailerScenes.cpp',
+        'DwarfHome4TrailerScenes.cpp',
+        'MenuTrailerScenes.cpp',
+        'TrailerScenes.hpp',
+    ],
+    'includes':
+    [
+    ]
+}

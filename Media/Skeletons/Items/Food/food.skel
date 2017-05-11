@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Skeleton>
+    <Joints>
+        <Joint>
+            <Name>origin</Name>
+            <ParentID>0</ParentID>
+            <Offset>
+                <X>0.643918</X>
+                <Y>-1.717107</Y>
+            </Offset>
+            <Locked>false</Locked>
+            <MinRotation>-340282346638528859811704183484516925440.000000</MinRotation>
+            <MaxRotation>340282346638528859811704183484516925440.000000</MaxRotation>
+        </Joint>
+        <Joint>
+            <Name>b</Name>
+            <ParentID>0</ParentID>
+            <Offset>
+                <X>-0.419801</X>
+                <Y>-61.174679</Y>
+            </Offset>
+            <Locked>false</Locked>
+            <MinRotation>-340282346638528859811704183484516925440.000000</MinRotation>
+            <MaxRotation>340282346638528859811704183484516925440.000000</MaxRotation>
+        </Joint>
+    </Joints>
+    <DrawOrder>
+        <Item>0</Item>
+        <Item>1</Item>
+    </DrawOrder>
+    <Animations />
+</Skeleton>

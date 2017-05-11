@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<MaterialSet>
+    <Mapping>
+        <Name>origin</Name>
+        <Material>
+            <Path>brazier.png</Path>
+            <TexCoords>
+                <Point>
+                    <X>0.820673</X>
+                    <Y>0.032379</Y>
+                </Point>
+                <Point>
+                    <X>0.869240</X>
+                    <Y>0.033624</Y>
+                </Point>
+                <Point>
+                    <X>0.962640</X>
+                    <Y>0.229141</Y>
+                </Point>
+                <Point>
+                    <X>0.747198</X>
+                    <Y>0.227895</Y>
+                </Point>
+            </TexCoords>
+            <Origin>
+                <X>0.844077</X>
+                <Y>0.045506</Y>
+            </Origin>
+            <Rotation>0.000000</Rotation>
+            <Scale>1024.000000</Scale>
+        </Material>
+    </Mapping>
+</MaterialSet>

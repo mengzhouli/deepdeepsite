@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<MaterialSet>
+    <Mapping>
+        <Name>joint_1</Name>
+        <Material>
+            <Path>dwarfgear_0.png</Path>
+            <TexCoords>
+                <Point>
+                    <X>0.614987</X>
+                    <Y>0.001292</Y>
+                </Point>
+                <Point>
+                    <X>0.651163</X>
+                    <Y>0.060724</Y>
+                </Point>
+                <Point>
+                    <X>0.639535</X>
+                    <Y>0.099483</Y>
+                </Point>
+                <Point>
+                    <X>0.594315</X>
+                    <Y>0.105943</Y>
+                </Point>
+                <Point>
+                    <X>0.571059</X>
+                    <Y>0.064599</Y>
+                </Point>
+            </TexCoords>
+            <Origin>
+                <X>0.614532</X>
+                <Y>0.096579</Y>
+            </Origin>
+            <Rotation>0.000000</Rotation>
+            <Scale>4096.000000</Scale>
+        </Material>
+    </Mapping>
+</MaterialSet>

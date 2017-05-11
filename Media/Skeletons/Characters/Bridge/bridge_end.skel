@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Skeleton>
+    <Joints>
+        <Joint>
+            <Name>origin</Name>
+            <ParentID>0</ParentID>
+            <Offset>
+                <X>-0.500020</X>
+                <Y>-1.999990</Y>
+            </Offset>
+            <Locked>false</Locked>
+            <MinRotation>-340282001837565597733306976381245063168.000000</MinRotation>
+            <MaxRotation>340282001837565597733306976381245063168.000000</MaxRotation>
+        </Joint>
+        <Joint>
+            <Name>rope_connect</Name>
+            <ParentID>0</ParentID>
+            <Offset>
+                <X>-5.975713</X>
+                <Y>-191.673035</Y>
+            </Offset>
+            <Locked>false</Locked>
+            <MinRotation>-340282001837565597733306976381245063168.000000</MinRotation>
+            <MaxRotation>340282001837565597733306976381245063168.000000</MaxRotation>
+        </Joint>
+        <Joint>
+            <Name>bridge_connect</Name>
+            <ParentID>0</ParentID>
+            <Offset>
+                <X>0.154112</X>
+                <Y>19.049055</Y>
+            </Offset>
+            <Locked>false</Locked>
+            <MinRotation>-340282346638528859811704183484516925440.000000</MinRotation>
+            <MaxRotation>340282346638528859811704183484516925440.000000</MaxRotation>
+        </Joint>
+    </Joints>
+    <DrawOrder>
+        <Item>0</Item>
+        <Item>1</Item>
+        <Item>2</Item>
+    </DrawOrder>
+    <Animations />
+</Skeleton>

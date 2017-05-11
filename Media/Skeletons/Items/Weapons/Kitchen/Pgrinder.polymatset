@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<MaterialSet>
+    <Mapping>
+        <Name>origin</Name>
+        <Material>
+            <Path>Kitchen.png</Path>
+            <TexCoords>
+                <Point>
+                    <X>0.606557</X>
+                    <Y>0.191257</Y>
+                </Point>
+                <Point>
+                    <X>0.983607</X>
+                    <Y>0.181421</Y>
+                </Point>
+                <Point>
+                    <X>0.975956</X>
+                    <Y>0.273224</Y>
+                </Point>
+                <Point>
+                    <X>0.605464</X>
+                    <Y>0.264481</Y>
+                </Point>
+            </TexCoords>
+            <Origin>
+                <X>0.676870</X>
+                <Y>0.225962</Y>
+            </Origin>
+            <Rotation>4.702826</Rotation>
+            <Scale>667.584514203</Scale>
+        </Material>
+    </Mapping>
+</MaterialSet>

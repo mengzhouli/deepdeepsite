@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<MaterialSet>
+    <Mapping>
+        <Name>back_button_highlight</Name>
+        <Material>
+            <Path>menudisplay.png</Path>
+            <TexCoords>
+                <Point>
+                    <X>0.050813</X>
+                    <Y>0.277905</Y>
+                </Point>
+                <Point>
+                    <X>0.254065</X>
+                    <Y>0.328018</Y>
+                </Point>
+                <Point>
+                    <X>0.233740</X>
+                    <Y>0.432802</Y>
+                </Point>
+                <Point>
+                    <X>0.028455</X>
+                    <Y>0.378132</Y>
+                </Point>
+            </TexCoords>
+            <Origin>
+                <X>0.152826</X>
+                <Y>0.323063</Y>
+            </Origin>
+            <Rotation>-3.549998</Rotation>
+            <Scale>1510.188965</Scale>
+        </Material>
+    </Mapping>
+</MaterialSet>

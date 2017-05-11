@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<MaterialSet>
+    <Mapping>
+        <Name>origin</Name>
+        <Material>
+            <Path>gob_weapons.png</Path>
+            <TexCoords>
+                <Point>
+                    <X>0.174820</X>
+                    <Y>0.047353</Y>
+                </Point>
+                <Point>
+                    <X>0.203036</X>
+                    <Y>0.049383</Y>
+                </Point>
+                <Point>
+                    <X>0.212524</X>
+                    <Y>0.475870</Y>
+                </Point>
+                <Point>
+                    <X>0.165085</X>
+                    <Y>0.476992</Y>
+                </Point>
+            </TexCoords>
+            <Origin>
+                <X>0.188269</X>
+                <Y>0.118323</Y>
+            </Origin>
+            <Rotation>0.000000</Rotation>
+            <Scale>374.487488</Scale>
+        </Material>
+    </Mapping>
+</MaterialSet>

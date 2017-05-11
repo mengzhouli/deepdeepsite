@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<MaterialSet>
+    <Mapping>
+        <Name>joint_0</Name>
+        <Material>
+            <Path>capture_portraits.png</Path>
+            <TexCoords>
+                <Point>
+                    <X>0.257746</X>
+                    <Y>0.165714</Y>
+                </Point>
+                <Point>
+                    <X>0.390141</X>
+                    <Y>0.068571</Y>
+                </Point>
+                <Point>
+                    <X>0.328169</X>
+                    <Y>0.891428</Y>
+                </Point>
+                <Point>
+                    <X>0.198592</X>
+                    <Y>0.874286</Y>
+                </Point>
+            </TexCoords>
+            <Origin>
+                <X>0.284717</X>
+                <Y>0.214944</Y>
+            </Origin>
+            <Rotation>0.000000</Rotation>
+            <Scale>1780.384521</Scale>
+        </Material>
+    </Mapping>
+</MaterialSet>

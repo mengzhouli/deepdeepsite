@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<MaterialSet>
+	<Mapping>
+		<Name>origin</Name>
+		<Material>
+			<Path>dynamite.png</Path>
+			<TexCoords>
+				<Point>
+					<X>0.189066</X>
+					<Y>0.571754</Y>
+				</Point>
+				<Point>
+					<X>0.587699</X>
+					<Y>0.505695</Y>
+				</Point>
+				<Point>
+					<X>0.890661</X>
+					<Y>0.587699</Y>
+				</Point>
+				<Point>
+					<X>0.831435</X>
+					<Y>0.865604</Y>
+				</Point>
+				<Point>
+					<X>0.218679</X>
+					<Y>0.876993</Y>
+				</Point>
+			</TexCoords>
+			<Origin>
+				<X>0.527736</X>
+				<Y>0.684067</Y>
+			</Origin>
+			<Rotation>0.000000</Rotation>
+			<Scale>256.000000</Scale>
+		</Material>
+	</Mapping>
+</MaterialSet>

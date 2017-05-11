@@ -1,0 +1,18 @@
+{
+    'sources':
+    [
+        'GameItems.cpp',
+        'GameItems.hpp',
+        'GameItems.inl',
+        'ItemSounds.cpp',
+        'ItemSounds.hpp',
+        'ItemUtility.cpp',
+        'ItemUtility.hpp',
+    ],
+    'includes':
+    [
+        'Armors/ArmorsSource.gypi',
+        'Trinkets/TrinketsSource.gypi',
+        'Weapons/WeaponsSource.gypi',
+    ],
+}

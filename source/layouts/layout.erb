@@ -11,8 +11,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Use title if it's in the page YAML frontmatter -->
-    <title><%= current_page.data.title || "The Middleman" %></title>
-
+    <title><%= current_page.data.title || "The Deep Deep" %></title>
+    <%= favicon_tag 'favicon.ico' %>
+    <%= csrf_meta_tags %>
     <%= stylesheet_link_tag "all" %>
     <%= javascript_include_tag  "all" %>
 
@@ -29,5 +30,9 @@
     <%= partial "navbar" %>
     <%= yield %>
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <%= javascript_include_tag 'application' %>
+    <%= yield(:js) %>
   </body>
 </html>

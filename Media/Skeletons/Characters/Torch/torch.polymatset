@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<MaterialSet>
+	<Mapping>
+		<Name>handle</Name>
+		<Material>
+			<Path>torches.png</Path>
+			<TexCoords>
+				<Point>
+					<X>0.685185</X>
+					<Y>0.282460</Y>
+				</Point>
+				<Point>
+					<X>0.800926</X>
+					<Y>0.264237</Y>
+				</Point>
+				<Point>
+					<X>0.884259</X>
+					<Y>0.287016</Y>
+				</Point>
+				<Point>
+					<X>0.810185</X>
+					<Y>0.781321</Y>
+				</Point>
+				<Point>
+					<X>0.712963</X>
+					<Y>0.779043</Y>
+				</Point>
+			</TexCoords>
+			<Origin>
+				<X>0.767777</X>
+				<Y>1.299814</Y>
+			</Origin>
+			<Rotation>0.000000</Rotation>
+			<Scale>278.067413</Scale>
+		</Material>
+	</Mapping>
+</MaterialSet>

@@ -1,0 +1,20 @@
+{
+    'sources':
+    [
+        'DwarfHome0.cpp',
+        'DwarfHome0.hpp',
+        'DwarfHome1.cpp',
+        'DwarfHome1.hpp',
+        'DwarfHome2.cpp',
+        'DwarfHome2.hpp',
+        'DwarfHome3.cpp',
+        'DwarfHome3.hpp',
+        'DwarfHome4.cpp',
+        'DwarfHome4.hpp',
+        'DwarfHomeLevel.cpp',
+        'DwarfHomeLevel.hpp',
+    ],
+    'includes':
+    [
+    ]
+}

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+    <title>Imperfect Pixel</title>
+    <founding-date>February 27, 2012</founding-date>
+    <website>http://www.thedeepdeep.com/</website>
+    <based-in>Montreal, Canada</based-in>
+    <address></address>
+    <phone>+1 (416) 659 5398</phone>
+    <press-contact>geoff@vonture.net</press-contact>
+
+    <socials>
+        <social>
+            <name>twitter.com/TheDeepDeepGame</name>
+            <link>twitter.com/TheDeepDeepGame</link>
+        </social>
+        <social>
+            <name>facebook.com/TheDeepDeepGame</name>
+            <link>facebook.com/TheDeepDeepGame</link>
+        </social>
+    </socials>
+
+    <description>
+        Imperfect Pixel is a Canadian indie game company with three weekend-warrior developers; Geoff Lang, Vince Price and Andrew Patten.  They make easy-to-play but tough-to-master strategy games.
+    </description>
+
+    <histories>
+        <history>
+            <header>The Deep Deep</header>
+            <text>In early 2012, Geoff and Vince started working weekends to bring their concepts to life in the 2D RTS game, The Deep Deep.  They explored mixing exploration, puzzle solving and battle in a dark world that must be illuminated by the player themself.  In 2016, Andrew joined the team bringing audio expertise, he composed the game's music and recorded sound effects.  The team is now doing the final touches on the first set of levels to be released in 2017.</text>
+        </history>
+    </histories>
+
+    <trailers>
+    </trailers>
+
+    <awards>
+    </awards>
+
+    <quotes>
+    </quotes>
+
+    <press-can-request-copy>false</press-can-request-copy> <!-- can be true or false -->
+    <monetization-permission>monetize</monetization-permission> <!-- can be:    false (no video allowed),
+                                                                                ask (permission on case-per-case asis),
+                                                                                non-commercial (no monetization allowed),
+                                                                                monetize (full permission) -->
+    <additionals>
+    </additionals>
+
+    <credits>
+        <credit>
+            <person>Geoff Lang</person>
+            <website>www.vonture.net</website>
+            <role>Programmer</role>
+        </credit>
+        <credit>
+            <person>Vince Price</person>
+            <website>www.vinceprice.tumblr.com</website>
+            <role>Artist</role>
+        </credit>
+        <credit>
+            <person>Andrew Patten</person>
+            <website>www..com</website>
+            <role>Music, Sound Effects</role>
+        </credit>
+    </credits>
+
+    <contacts>
+        <contact>
+            <name>Inquiries</name>
+            <mail>geoff@vonture.net</mail>
+        </contact>
+        <contact>
+            <name>Twitter</name>
+            <link>http://twitter.com/TheDeepDeepGame</link>
+        </contact>
+        <contact>
+            <name>Facebook</name>
+            <link>http://facebook.com/TheDeepDeepGame</link>
+        </contact>
+        <contact>
+            <name>Web</name>
+            <link>TheDeepDeep.com</link>
+        </contact>
+    </contacts>
+</game>

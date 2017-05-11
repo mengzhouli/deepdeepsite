@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Skeleton>
+    <Joints>
+        <Joint>
+            <Name>origin</Name>
+            <ParentID>0</ParentID>
+            <Offset>
+                <X>-1.803505</X>
+                <Y>-1.157589</Y>
+            </Offset>
+            <Locked>false</Locked>
+            <MinRotation>-340282346638528870000000000000000000000.000000</MinRotation>
+            <MaxRotation>340282346638528870000000000000000000000.000000</MaxRotation>
+        </Joint>
+        <Joint>
+            <Name>particle</Name>
+            <ParentID>0</ParentID>
+            <Offset>
+                <X>6.304151</X>
+                <Y>-75.606987</Y>
+            </Offset>
+            <Locked>false</Locked>
+            <MinRotation>-340282346638528870000000000000000000000.000000</MinRotation>
+            <MaxRotation>340282346638528870000000000000000000000.000000</MaxRotation>
+        </Joint>
+        <Joint>
+            <Name>light</Name>
+            <ParentID>1</ParentID>
+            <Offset>
+                <X>0.666653</X>
+                <Y>-13.339941</Y>
+            </Offset>
+            <Locked>false</Locked>
+            <MinRotation>-340282346638528870000000000000000000000.000000</MinRotation>
+            <MaxRotation>340282346638528870000000000000000000000.000000</MaxRotation>
+        </Joint>
+    </Joints>
+    <DrawOrder>
+        <Item>1</Item>
+        <Item>0</Item>
+        <Item>2</Item>
+    </DrawOrder>
+    <Animations />
+</Skeleton>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<MaterialSet>
+    <Mapping>
+        <Name>a</Name>
+        <Material>
+            <Path>ladder_tips_b.png</Path>
+            <TexCoords>
+                <Point>
+                    <X>0.000000</X>
+                    <Y>0.300000</Y>
+                </Point>
+                <Point>
+                    <X>1.000000</X>
+                    <Y>0.300000</Y>
+                </Point>
+                <Point>
+                    <X>1.000000</X>
+                    <Y>1.000000</Y>
+                </Point>
+                <Point>
+                    <X>0.000000</X>
+                    <Y>1.000000</Y>
+                </Point>
+            </TexCoords>
+            <Origin>
+                <X>0.500000</X>
+                <Y>0.124900</Y>
+            </Origin>
+            <Rotation>1.570796</Rotation>
+            <Scale>256.000000</Scale>
+        </Material>
+    </Mapping>
+</MaterialSet>

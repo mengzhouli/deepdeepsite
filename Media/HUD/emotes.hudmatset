@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<MaterialSet>
+    <Mapping>
+        <Name>emote_confused</Name>
+        <Material>
+            <Texture>icon_missing.png</Texture>
+            <SubRect>
+                <X>0</X>
+                <Y>0</Y>
+                <W>1</W>
+                <H>1</H>
+            </SubRect>
+        </Material>
+    </Mapping>
+    <Mapping>
+        <Name>emote_surprised</Name>
+        <Material>
+            <Texture>UI/emotes.png</Texture>
+            <SubRect>
+                <X>0.3017578125</X>
+                <Y>0.19765166340508806262230919765166</Y>
+                <W>0.22091886608015640273704789833822</W>
+                <H>0.25831702544031311154598825831703</H>
+            </SubRect>
+        </Material>
+    </Mapping>
+</MaterialSet>

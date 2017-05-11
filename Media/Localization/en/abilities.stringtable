@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<StringTable>
+    <Pair>
+        <Key>ability_cooldown_title</Key>
+        <Value>Cooldown:</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_cooldown_units</Key>
+        <Value>seconds</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_cost_title</Key>
+        <Value>Cost:</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_cost_gold_units</Key>
+        <Value>gold</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_cost_wood_units</Key>
+        <Value>wood</Value>
+    </Pair>
+
+    <Pair>
+        <Key>ability_build_bridge_name</Key>
+        <Value>Build Bridge</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_grapple_tooltip</Key>
+        <Value>Launch a grappling hook to a nearby ledge and attach a climable rope.</Value>
+    </Pair>
+
+    <Pair>
+        <Key>ability_plant_dynamite_name</Key>
+        <Value>Powder Keg</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_plant_dynamite_tooltip</Key>
+        <Value>Place a powder keg. The keg explodes %g seconds after being ignited, dealing up to %g &lt;color=orange&gt;fire&lt;/color&gt; damage in a large radius.</Value>
+    </Pair>
+
+    <Pair>
+        <Key>ability_throw_bomb_name</Key>
+        <Value>Iron Bomb</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_throw_bomb_tooltip</Key>
+        <Value>Throw an iron bomb. The bomb explodes after %g seconds, dealing up to %g &lt;color=orange&gt;fire&lt;/color&gt; damage in a medium radius.</Value>
+    </Pair>
+
+    <Pair>
+        <Key>ability_grapple_name</Key>
+        <Value>Grapple</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_build_barricade_name</Key>
+        <Value>Build Barricade</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_build_barricade_tooltip</Key>
+        <Value>Construct a barricade with %g health.</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_cook_beef_name</Key>
+        <Value>Cook Beef</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_cook_beef_tooltip</Key>
+        <Value>Cook some beef and place it at the target location.  When eaten, the beef will increase the unit's maximum health by %g for %g seconds.</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_cook_chicken_name</Key>
+        <Value>Cook Chicken</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_cook_chicken_tooltip</Key>
+        <Value>Cook some chicken and place it at the target location.  When eaten, the chicken will increase the unit's health regeneration by %g per second for %g seconds.</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_cook_ham_name</Key>
+        <Value>Cook Ham</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_cook_ham_tooltip</Key>
+        <Value>Cook some ham and place it at the target location.  When eaten, the ham will heal the unit for %g health.</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_build_bridge_tooltip</Key>
+        <Value>Build a bridge across a gap up to %g units wide.</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_shoot_flare_name</Key>
+        <Value>Shoot Flare</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_shoot_flare_tooltip</Key>
+        <Value>Shoot a flare. Provides light and ignities enemies, dealing %g &lt;color=orange&gt;fire&lt;/color&gt; damage per second over %g seconds.</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_leap_name</Key>
+        <Value>Leap</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_leap_tooltip</Key>
+        <Value>Leap to the target location. Nearby enemies are knocked down and suffer up to %g &lt;color=white&gt;physical&lt;/color&gt; damage.</Value>
+    </Pair>
+
+    <Pair>
+        <Key>ability_brew_beer_name</Key>
+        <Value>Beer Keg</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_brew_beer_tooltip</Key>
+        <Value>Place a beer keg. Consumed beer provides %g%% &lt;color=white&gt;physical&lt;/color&gt; damage reduction. Only one food buff can be active at once.</Value>
+    </Pair>
+
+    <Pair>
+        <Key>ability_brew_wine_name</Key>
+        <Value>Wine Rack</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_brew_wine_tooltip</Key>
+        <Value>Place a wine rack. Consumed wine provides %g health regeneration per second. Only one food buff can be active at once.</Value>
+    </Pair>
+
+    <Pair>
+        <Key>ability_cook_crit_food_name</Key>
+        <Value>Rib Platter</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_cook_crit_food_tooltip</Key>
+        <Value>Place a platter of ribs. Consumed ribs provide %g%% increased attack speed. Only one food buff can be active at once.</Value>
+    </Pair>
+
+    <Pair>
+        <Key>ability_cook_attack_speed_food_name</Key>
+        <Value>Ham Feast</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_cook_attack_speed_food_tooltip</Key>
+        <Value>Place a ham feast. Consumed ham provide %g%% increased chance to land a critical hit. Only one food buff can be active at once.</Value>
+    </Pair>
+
+    <Pair>
+        <Key>ability_channeling_food_heal_name</Key>
+        <Value>All You Can Eat</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_channeling_food_heal_tooltip</Key>
+        <Value>Cook and toss food to nearby injured allies every %g seconds, healing for %g.</Value>
+    </Pair>
+
+    <Pair>
+        <Key>ability_sack_smash_name</Key>
+        <Value>Sack Smash</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_sack_smash_tooltip</Key>
+        <Value>Smash the ground with a mining sack inflicting up to %g &lt;color=white&gt;physical&lt;/color&gt; damage and stunning.</Value>
+    </Pair>
+
+    <Pair>
+        <Key>ability_sprint_name</Key>
+        <Value>Sprint</Value>
+    </Pair>
+    <Pair>
+        <Key>ability_sprint_tooltip</Key>
+        <Value>Run %g%% faster for %g seconds.</Value>
+    </Pair>
+</StringTable>

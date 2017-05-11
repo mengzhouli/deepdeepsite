@@ -1,0 +1,6 @@
+{
+    'includes':
+    [
+        'Scripts/ScriptsSource.gypi',
+    ],
+}
