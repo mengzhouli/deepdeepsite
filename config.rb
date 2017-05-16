@@ -44,17 +44,23 @@ activate :autoprefixer
 # end
 
 # Methods defined in the helpers block are available in templates
-# helpers do
-#   def some_helper
-#     "Helping"
-#   end
-# end
+helpers do
+  def video_path(my_video)
+    asset_path :video, my_video
+  end
+
+  def video_tag(my_video)
+    tag(:video, :src => video_path(my_video))
+  end
+end
 
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
+
+set :video_dir, 'video'
 
 # Build-specific configuration
 configure :build do
